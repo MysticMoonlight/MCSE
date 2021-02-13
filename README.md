@@ -27,7 +27,7 @@ MC:SE comes with several settings used to toggle certain features; edit them in 
 1. Head to [release page](https://github.com/MysticMoonlight/MysticConfig-Source-Edition/releases) and click on MCSE.zip to download file
 2. Extract the zip file (Recommend using with 7-zip for extraction)
 3. locate your Source Engine Game(If CS:S, go cstrike) installation's `custom` folder (usually located at `C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom` on Windows)
-4. Move the `MysticConfig` folder to custom folder.
+4. Move the extracted folder to custom folder.
 5. Edit the settings on `_settings.cfg` to customize the config.
 6. Launch TF2
 
@@ -47,7 +47,7 @@ Since MC:SE aims to support all source engine games, most source engine games sh
 * And many more Source Engine games which supports custom folder
 
 ### Unsupported Games ###
-* Left 4 Dead series (It uses addon system by default)
+* Left 4 Dead series (It uses addon system and does not support folder based mods)
 * Counter Strike: Global Offensive (Valve removed custom folder support)
 * Any GoldSrc/Source 2 Engine games (This script compilation was not meant to support GoldSrc and Source 2 Engines)
 

@@ -3,7 +3,7 @@ MysticConfig: Source Edition
 MysticConfig: Source Edition is the script compilation which aims to support all source engine games.
 
 ## Features ##
-This script has lack of scripts due to compatiability with other source engine mod. Feel free to make feedback on issue tracker!
+This script has lack of scripts due to compatibility with other source engine mod. Feel free to make feedback on issue tracker!
 - **Auto Crouch-Jump:** Automatically makes you crouch-jump when playing the spacebar. 
 - **Netgraph:** displays the netgraph on the score screen (`Tab` key).
 - **Null-Cancelling Movement Script:** a classic script which lets you immediately change direction. As of v4 "Carbon", now you can select keyboard types on `_settings.cfg` file.

@@ -1,5 +1,7 @@
-MysticConfig: Source Edition
+MysticConfig: Source Edition - End of Support
 ===========
+This script is now obsolete since MysticConfig 9 "Helium" update implemented add-on feature, which allows you to install specific game-specialized script.
+
 MysticConfig: Source Edition is the script compilation which aims to support all source engine games.
 
 ## Features ##
